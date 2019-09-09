@@ -1,0 +1,8 @@
+prefix=/home/pc/catkin_ws/install
+
+Name: pioneer_sim
+Description: Description of pioneer_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pc/catkin_ws/install/lib 
+Requires: 
